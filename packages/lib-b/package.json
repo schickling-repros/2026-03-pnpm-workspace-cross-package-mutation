@@ -1,0 +1,16 @@
+{
+  "name": "lib-b",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./src/mod.ts"
+  },
+  "dependencies": {
+    "lib-a": "workspace:*"
+  },
+  "devDependencies": {
+    "effect": "3.19.15",
+    "typescript": "5.8.3"
+  }
+}

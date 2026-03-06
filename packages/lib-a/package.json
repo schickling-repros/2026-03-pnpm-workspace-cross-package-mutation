@@ -1,0 +1,16 @@
+{
+  "name": "lib-a",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./src/mod.ts"
+  },
+  "devDependencies": {
+    "effect": "3.19.15",
+    "typescript": "5.8.3"
+  },
+  "peerDependencies": {
+    "effect": "~3.19.15"
+  }
+}
