@@ -58,4 +58,4 @@ This means:
 
 ## Related Issue
 
-<!-- TBD -->
+https://github.com/pnpm/pnpm/issues/10887
